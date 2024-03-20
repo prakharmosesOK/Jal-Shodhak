@@ -8,7 +8,7 @@ Jal Shodhak is an autonomous water cleaning project utilizing solar-powered robo
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Brieg Explanation of the Idea](#brief_explanation_of_the_idea)
+3. [Brief Explanation of the Idea](#brief_explanation_of_the_idea)
 4. [Authors](#authors)
 5. [License](#license)
 
