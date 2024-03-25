@@ -32,7 +32,7 @@ An autonomous water cleaning robot called **Jal Shodhak** was created to combat 
 
 [Jal Shodhak PDF {brief explanation}](https://drive.google.com/file/d/1n7onYkYAw9wfHa9F4C3q8UE_kT3s-y-2/view?usp=drive_link)
 
-### A short video explanation of the idea
+### 🎬 A short video explanation of the idea
 
 [Jal Shodhak Explanation video](https://drive.google.com/file/d/1uXCRrAuk9zFSR4gI8jUCFyt2T9NuN7VK/view?usp=drive_link)
 
