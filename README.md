@@ -40,7 +40,7 @@ An autonomous water cleaning robot called **Jal Shodhak** was created to combat 
 
 <p> <a href="https://github.com/prakharmoses"><b>Prakhar Moses </b><a/> (Team Leader)</p>
 <p> <a href="https://github.com/CrazyMihir"><b>Mihir</b><a/><p/>
-<p> <a href="https://github.com/The30Cryptic"><b>M.T. Vardhani</b><a/></p>
+<p> <a href="https://github.com/Vardhani30"><b>M.T. Vardhani</b><a/></p>
 
 ### Contact Information
 
